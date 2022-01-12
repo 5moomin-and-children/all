@@ -33,7 +33,7 @@ Sparta Coding Camp - Team Project 2. AI classification project
 <br>
 
 ## 🤖 기술 스택
-1. Front : HTML, JavaScript, Ajax
+1. Front : HTML, CSS ,JavaScript, Ajax
 2. Back : Python, Flask, MongoDB
 3. AI : Google Colab, tensorflow
 4. 협업 : [github](https://github.com/MoominAndChildrenTeam/), [Figma](https://www.figma.com/file/bxfXRmb2SybXbWdoB3PudW/%EB%AC%B4%EB%AF%BC?node-id=0%3A1)
