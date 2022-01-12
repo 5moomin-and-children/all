@@ -58,7 +58,7 @@ Sparta Coding Camp - Team Project 2. AI classification project
 ## 🎈 DB 스키마  
 |기능|method|url|request|response|
 |---|---|---|---|---|
-|로그인 기능|GET|/api/login|{'id':id,'pw':'pw'}|/index.html {True(토큰), False}|
+|로그인 기능|POST|/api/login|{'id':id,'pw':'pw'}|/index.html {True(토큰), False}|
 |회원가입 기능|GET|/sign_up|.|회원가입 페이지 로드|
 |.|POST|/api/sign_up|{'id':id,'pw':'pw'}|sign_up{token}|
 |분리수거 기능|GET|/recycle|.|recycle 페이지 로드|
