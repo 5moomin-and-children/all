@@ -1,6 +1,9 @@
-# 내가 분리수거 왕이 될 상인가?
+# 내가 분리수거 왕이 될 상인가
 
 Sparta Coding Camp - Team Project 2. AI classification project
+
+*자세한건 wiki에 적혀있습니다!
+
 <br>
 <br>
 
