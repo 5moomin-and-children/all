@@ -1,4 +1,4 @@
-# 내가 분리수거 왕이 될 상인가
+# 무민아파트 분리수거왕!
 
 Sparta Coding Camp - Team Project 2. AI classification project
 
