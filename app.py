@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 from flask import Flask, render_template, request, jsonify, redirect, url_for
 from pymongo import MongoClient
 from datetime import datetime
@@ -14,7 +16,7 @@ import h5py
 
 
 # DB
-client = MongoClient('mongodb+srv://test:sparta@cluster0.zxyme.mongodb.net/Cluster0?retryWrites=true&w=majority', tlsCAFile=certifi.where())
+client = MongoClient('mongodb+srv://test:sparta@cluster0.jhevf.mongodb.net/', tlsCAFile=certifi.where())
 db = client.recycleKing
 
 # jwt Secret key
